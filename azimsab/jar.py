@@ -45,11 +45,20 @@
 #         pass
 # checker_info_of_user()
 
-
-i = 0
-while i == 1:
-    a = input('Введите номер: ')
-    if type(a) == int:
-        i += 1
+# a = 'Hello'
+# i = a.count('l')
+# print(i)
 
 
+# a = ['ada', 121, 33, 'ref']
+# def func13(list_):
+#     str_= []
+#     int_ =[]
+#     for i in list_:
+#         if type(i) == str:
+#             str_.append(i)
+#         elif type(i)  == int:
+#             int_.append(i)
+#     return str_, int_
+
+# print(func13(a))
